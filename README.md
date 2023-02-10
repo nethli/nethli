@@ -1,11 +1,4 @@
-### Hi there 👋
-
-# ItsNethli
-Welcome to My Github Account!
-
-<!--<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="600"/>
-</div>-->
+# Welcome to My Github Account! 👋
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="400"/>
