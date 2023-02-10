@@ -1,4 +1,7 @@
-# Welcome to My Github Account! 👋
+  <h1  align="center">
+  Its Nethli, Welcome to my GitHub Profile!!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"  align="center"/>
+</h1>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="400"/>
@@ -20,11 +23,6 @@
   <img src="https://komarev.com/ghpvc/?username=nethli&style=flat-square&color=blue" alt=""/> 
  </div>
   
-  <h1  align="center">
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"  align="center"/>
-</h1>
-
 ---
 
 <div>
