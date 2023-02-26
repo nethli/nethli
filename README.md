@@ -63,4 +63,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nethli&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nethli&show_icons=true&theme=transparent)
+![Nethli's GitHub stats](https://github-readme-stats.vercel.app/api?username=nethli&show_icons=true&theme=tokyonight)
