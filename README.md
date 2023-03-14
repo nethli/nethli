@@ -28,7 +28,7 @@
 <div>
 ### :woman_technologist: About Me : I am a fourth year IT undergraduate student at KDU Sri Lanka. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope:   Have a good enthusiasm in programming and QA.
+- :telescope:   Have a good enthusiasm in programming, devOps and QA.
 
 - :seedling: I have contributed in many software projects and researches.
 
