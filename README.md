@@ -26,13 +26,13 @@
 ---
 
 <div>
-### :woman_technologist: About Me : I am a fourth year IT undergraduate student at KDU Sri Lanka. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+### :woman_technologist: About Me :  Motivated & detail-oriented IT professional with two years of working experience at IFS R&D Software International (PVT) Ltd as an Undergraduate Trainee Systems Engineer & Associate Site Reliability Engineer who currently pursues MSc in Information Technology at University of Moratuwa. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope:   Have a good enthusiasm in developing, devOps and QA.
+- :telescope:   Have a good enthusiasm in DevOps, IT Administration & Software Development.
 
-- :seedling: I have contributed in many software projects and researches.
+- :seedling: I have contributed in many software projects & researches.
 
-- :zap:  Eager to know about new trends of the field of ICT.
+- :zap:  Eager to know about new trends of the field of ICT. 
 
 ---
 
