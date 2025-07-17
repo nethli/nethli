@@ -51,13 +51,13 @@
   
 ---
 
-🔹 **Programming Languages**: `Java`, `Python`, `C#`  
-🔹 **Web Application Development Languages**: `HTML`, `CSS`, `PHP`  
-🔹 **Database Technologies**: `SQL`, `MySQL`, `Oracle`, `SQL Server Management Studio`  
-🔹 **Cloud Technologies & DevOps**: `Microsoft Azure`, `Docker`, `K8s`  
-🔹 **Scripting**: `PowerShell`, `JavaScript`  
-🔹 **Monitoring & Visualization**: `Prometheus`, `Grafana`  
-🔹 **IT Service Management Tools**: `ServiceNow`
+🕯️ **Programming Languages**: `Java`, `Python`, `C#`  
+ 🕯️**Web Application Development Languages**: `HTML`, `CSS`, `PHP`  
+🕯️ **Database Technologies**: `SQL`, `MySQL`, `Oracle`, `SQL Server Management Studio`  
+🕯️ **Cloud Technologies & DevOps**: `Microsoft Azure`, `Docker`, `K8s`  
+🕯️  **Scripting**: `PowerShell`, `JavaScript`  
+🕯️  **Monitoring & Visualization**: `Prometheus`, `Grafana`  
+🕯️  **IT Service Management Tools**: `ServiceNow`
 
 
 ---
