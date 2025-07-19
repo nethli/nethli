@@ -51,6 +51,8 @@
   
 ---
 
+### :hammer_and_wrench: Tools and Technologies
+
 🕯️ **Programming Languages**: `Java`, `Python`, `C#`  
  🕯️**Web Application Development Languages**: `HTML`, `CSS`, `PHP`  
 🕯️ **Database Technologies**: `SQL`, `MySQL`, `Oracle`, `SQL Server Management Studio`  
@@ -59,10 +61,6 @@
 🕯️  **Monitoring & Visualization**: `Prometheus`, `Grafana`  
 🕯️  **IT Service Management Tools**: `ServiceNow`
 
-
----
-
-### :hammer_and_wrench: Languages and Tools 
 <div>
   <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg" title="Linux" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
