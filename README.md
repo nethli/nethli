@@ -31,7 +31,7 @@
 🎓 Obtained Bachelors Degree in Information Technology from General Sir John Kotelawala Defence University  
 📚 Currently pursues Masters Degree in Information Technology at University of Moratuwa 
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Interested Areas  
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Interested On 
 
 🔖 **DevOps & Cloud Engineering**  
 - Passionate about automating infrastructure, cloud-native solutions, and scalable deployments.  
@@ -45,21 +45,22 @@
 🔖 **IT Administration**  
 - Skilled in managing servers, networks, and enterprise systems.  
 
-🔖 **Kubernetes & Docker**  
-- Expertise in orchestrating containers for scalable and resilient applications.
+🔖 **Containerization with Docker**  
+- Expertise in containerizing for scalable and resilient applications.
 
   
 ---
 
 ### :hammer_and_wrench: Tools and Technologies
 
-🕯️ **Programming Languages**: `Java`, `Python`, `C#`  
- 🕯️**Web Application Development Languages**: `HTML`, `CSS`, `PHP`  
-🕯️ **Database Technologies**: `SQL`, `MySQL`, `Oracle`, `SQL Server Management Studio`  
-🕯️ **Cloud Technologies & DevOps**: `Microsoft Azure`, `Docker`, `K8s`  
-🕯️  **Scripting**: `PowerShell`, `JavaScript`  
-🕯️  **Monitoring & Visualization**: `Prometheus`, `Grafana`  
-🕯️  **IT Service Management Tools**: `ServiceNow`
+- 🕯️**Programming Languages**: `Java`, `Python`, `C#`
+- 🕯️**Web Application Development Languages**: `HTML`, `CSS`, `PHP`  
+- 🕯️**Database Technologies**: `MSSQL`, `MySQL`, `Oracle`  
+- 🕯️**Cloud Computing Platforms**: `Microsoft Azure` 
+- 🕯️**Containerization Tools**: `Docker` 
+- 🕯️**Scripting**: `PowerShell`, `JavaScript`  
+- 🕯️**Monitoring & Visualization**: `Nagios`, `Status Engine`, `Prometheus`, `Grafana`  
+- 🕯️**IT Service Management Tools**: `ServiceNow`
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg" title="Linux" alt="Java" width="40" height="40"/>&nbsp;
@@ -82,7 +83,7 @@
 
 ---
 
-### :fire: My Stats :
+### 🥇 My Stats 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nethli&theme=tokyonight)](https://git.io/streak-stats)
 
